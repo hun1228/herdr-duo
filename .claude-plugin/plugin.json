@@ -1,0 +1,10 @@
+{
+  "name": "herdr-duo",
+  "description": "herdr 워크스페이스에서 Claude Code(왼쪽) + agy/Gemini(오른쪽) 협업 세팅을 만들고 점검하는 스킬",
+  "version": "1.0.0",
+  "author": {
+    "name": "hun1228"
+  },
+  "repository": "https://github.com/hun1228/herdr-duo",
+  "license": "MIT"
+}

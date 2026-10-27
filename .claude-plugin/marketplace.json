@@ -1,0 +1,14 @@
+{
+  "name": "herdr-duo",
+  "owner": {
+    "name": "hun1228"
+  },
+  "description": "herdr에서 Claude Code와 agy(Gemini)를 나란히 쓰기 위한 스킬 모음",
+  "plugins": [
+    {
+      "name": "herdr-duo",
+      "source": "./",
+      "description": "herdr 워크스페이스에서 Claude Code(왼쪽) + agy/Gemini(오른쪽) 협업 세팅을 만들고 점검하는 스킬"
+    }
+  ]
+}
